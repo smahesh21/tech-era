@@ -11,9 +11,7 @@ import ProtectedRoute from './components/ProtectedRoute'
 import CartContext from './context/CartContext'
 
 import './App.css'
-
-
-
+/* Added */
 class App extends Component {
   state = {
     cartList: [],
