@@ -12,7 +12,7 @@ import CartContext from './context/CartContext'
 
 import './App.css'
 
-/* App component is wrapping all the child components */
+
 
 class App extends Component {
   state = {
